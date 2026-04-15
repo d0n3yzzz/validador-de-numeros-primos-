@@ -32,7 +32,7 @@ Main.java
 1. Clone o repositório:
 
 bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/d0n3yzzz/validador-de-numeros-primos-.git
 
 
 2. Acesse a pasta do projeto:
